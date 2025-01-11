@@ -1,4 +1,4 @@
-- Hello, I'm @udehdavid512
+- 👋 Hi, I'm @udehdavid512
 - 👀 I’m interested in learning Devops
 - 🌱 I’m currently learning Networking basics
 - 💞️ I’m looking to collaborate on Cloud
